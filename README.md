@@ -27,6 +27,6 @@ My approach to Data Science is **Engineering-First**: I bridge the gap between s
 ---
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [linkedin.com/in/sadik-coban]((https://www.linkedin.com/in/sad%C4%B1k-%C3%A7oban-5239aa253/))
+- **LinkedIn:** [sadik-coban]((https://www.linkedin.com/in/sad%C4%B1k-%C3%A7oban-5239aa253/))]
 - **Email:** [s.c_2004@hotmail.com]
 - **Location:** Istanbul, Turkey
