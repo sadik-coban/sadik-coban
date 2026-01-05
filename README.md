@@ -21,12 +21,12 @@ My approach to Data Science is **Engineering-First**: I bridge the gap between s
 
 ### 📊 Featured Projects
 * **MFF (Meta Fuzzy Function):** An R package developed under academic supervision for the TÜBİTAK STAR program. The project focuses on integrating ensemble learning with fuzzy clustering-based meta-modeling to enhance predictive performance.
-* **End-to-End Vehicle Pipeline:** A robust, Airflow-orchestrated regression pipeline designed for vehicle price estimation. It features automated data transformation and utilizes prediction errors as a diagnostic signal for identifying real-world data anomalies.
+* **[End-to-End Vehicle Pipeline](https://github.com/sadik-coban/car-price-prediction-pipeline):** A robust, Airflow-orchestrated regression pipeline designed for vehicle price estimation. It features automated data transformation and utilizes prediction errors as a diagnostic signal for identifying real-world data anomalies.
 * **Synthetic Data & Regression Analysis:** A comprehensive statistical study involving the generation of synthetic datasets based on scraped automotive data. This project focuses on evaluating regression assumptions, handling non-normal distributions, and performing advanced model diagnostics.
 
 ---
 
 ### 📫 Let's Connect:
-- **LinkedIn:** [sadik-coban]((https://www.linkedin.com/in/sad%C4%B1k-%C3%A7oban-5239aa253/))]
+- **LinkedIn:** [https://www.linkedin.com/in/sad%C4%B1k-%C3%A7oban-5239aa253]
 - **Email:** [s.c_2004@hotmail.com]
 - **Location:** Istanbul, Turkey
