@@ -1,6 +1,6 @@
 # Hi there, I'm Sadık Çoban 👋
 
-**Statistics Student at Marmara University | TÜBİTAK STAR Researcher**
+**Statistics Student at Marmara University | TÜBİTAK STAR Scholarship Researcher**
 
 As a Statistics student, I am deeply fascinated by the mathematical foundations of models and the "stories" hidden in the details of data. I don't just build models; I strive to understand the underlying distributions and anomalies that others might overlook. 
 
