@@ -24,7 +24,7 @@ My approach to Data Science is **Engineering-First**: I bridge the gap between s
 - **Tools & Workflows:** Git
 
 ### 📊 Featured Projects
-* **[Meta Fuzzy Function (MFF)](https://github.com/nihattak/MFF):** An R package developed under academic supervision for the TÜBITAK STAR program. The project focuses on integrating ensemble learning with fuzzy clustering to enhance predictive performance.
+* **[Meta Fuzzy Function (MFF)](https://github.com/nihattak/MFF):** An R package developed under academic supervision. The project focuses on integrating ensemble learning with fuzzy clustering to enhance predictive performance.
 *  **[End-to-End Vehicle Valuation Pipeline](https://github.com/sadik-coban/car-price-prediction-pipeline):** A production-ready AI system for BMW & Audi market valuation. It replaces traditional regression with **CatBoost MultiQuantile forecasting** to provide reliable price intervals (). Features automated **idempotent data ingestion**, real-time **data drift monitoring** (KS/Wasserstein), and **SHAP-driven explainability**. Architected with a decoupled **Hugging Face Model Store** and a live **Next.js/FastAPI** dashboard.
 * **Synthetic Data & Regression Analysis:** A comprehensive statistical study involving the generation of synthetic datasets based on scraped automotive data. This project focuses on evaluating regression assumptions, handling non-normal distributions, and performing advanced model diagnostics.
 
