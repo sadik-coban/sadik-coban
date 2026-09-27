@@ -1,7 +1,7 @@
 # Hi there, I'm Sadık Çoban 👋
 
-[![Website](https://img.shields.io/badge/Portfolio-Live_Site-blue?style=for-the-badge&logo=vercel)](https://www.sadikcoban.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sad%C4%B1k-%C3%A7oban-5239aa253)
+[![Website](https://img.shields.io/badge/Portfolio-Live_Site-blue?style=for-the-badge&logo=vercel)](https://www.sadikcoban.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/sadikcoban)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail)](mailto:sadikc716@gmail.com)
 <br>
 <br>
@@ -32,6 +32,6 @@ My approach to Data Science is **Engineering-First**: I bridge the gap between s
 
 ### 📫 Let's Connect:
 - 📍 **Location:** Istanbul, Turkey
-- 💼 **LinkedIn:** [Sadık Çoban](https://www.linkedin.com/in/sad%C4%B1k-%C3%A7oban-5239aa253)
+- 💼 **LinkedIn:** [Sadık Çoban](www.linkedin.com/in/sadikcoban)
 - 📧 **Email:** [sadikc716@hotmail.com](mailto:sadikc716@gmailcom)
-- 🌐 **Website:** [sadikcoban.com](https://www.sadikcoban.com/)
+- 🌐 **Website:** [sadikcoban.com](https://www.sadikcoban.com)
